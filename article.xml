@@ -70,6 +70,15 @@
 <textobject><phrase>ComplexExpressionNoSuperWord</phrase></textobject>
 </mediaobject>
 </informalfigure>
+<simpara>ArrayStats:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Xeon-ArrayStats.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>ArrayStats</phrase></textobject>
+</mediaobject>
+</informalfigure>
 </section>
 <section xml:id="_amd_ryzen_9_9950x">
 <title>AMD Ryzen 9 9950x</title>
@@ -107,6 +116,15 @@
 <imagedata fileref="./assets/images/Ryzen-ComplexExpressionNoSuperWord.png" contentwidth="480" contentdepth="640" align="center"/>
 </imageobject>
 <textobject><phrase>ComplexExpressionNoSuperWord</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>ArrayStats:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Ryzen-ArrayStats.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>ArrayStats</phrase></textobject>
 </mediaobject>
 </informalfigure>
 </section>
@@ -148,6 +166,15 @@
 <textobject><phrase>ComplexExpressionNoSuperWord</phrase></textobject>
 </mediaobject>
 </informalfigure>
+<simpara>ArrayStats:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Apple-ArrayStats.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>ArrayStats</phrase></textobject>
+</mediaobject>
+</informalfigure>
 </section>
 <section xml:id="_qualcomm_snapdragon_x_elite_x1e80100">
 <title>Qualcomm SnapDragon X Elite X1E80100</title>
@@ -187,6 +214,19 @@
 <textobject><phrase>ComplexExpressionNoSuperWord</phrase></textobject>
 </mediaobject>
 </informalfigure>
+<simpara>ArrayStats:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/SnapDragon-ArrayStats.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>ArrayStats</phrase></textobject>
+</mediaobject>
+</informalfigure>
 </section>
+</section>
+<section xml:id="_test_analysis">
+<title>Test Analysis:</title>
+
 </section>
 </article>

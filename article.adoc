@@ -36,6 +36,10 @@ ComplexExpressionNoSuperWord:
 
 image::./assets/images/Xeon-ComplexExpressionNoSuperWord.png[alt=ComplexExpressionNoSuperWord,width=480,height=640,align="center"]
 
+ArrayStats:
+
+image::./assets/images/Xeon-ArrayStats.png[alt=ArrayStats,width=480,height=640,align="center"]
+
 === AMD Ryzen 9 9950x
 
 SimpleSum:
@@ -53,6 +57,10 @@ image::./assets/images/Ryzen-ComplexExpression.png[alt=ComplexExpression,width=4
 ComplexExpressionNoSuperWord:
 
 image::./assets/images/Ryzen-ComplexExpressionNoSuperWord.png[alt=ComplexExpressionNoSuperWord,width=480,height=640,align="center"]
+
+ArrayStats:
+
+image::./assets/images/Ryzen-ArrayStats.png[alt=ArrayStats,width=480,height=640,align="center"]
 
 === Apple M4 Base
 
@@ -72,6 +80,9 @@ ComplexExpressionNoSuperWord:
 
 image::./assets/images/Apple-ComplexExpressionNoSuperWord.png[alt=ComplexExpressionNoSuperWord,width=480,height=640,align="center"]
 
+ArrayStats:
+
+image::./assets/images/Apple-ArrayStats.png[alt=ArrayStats,width=480,height=640,align="center"]
 
 === Qualcomm SnapDragon X Elite X1E80100
 
@@ -90,3 +101,11 @@ image::./assets/images/SnapDragon-ComplexExpression.png[alt=ComplexExpression,wi
 ComplexExpressionNoSuperWord:
 
 image::./assets/images/SnapDragon-ComplexExpressionNoSuperWord.png[alt=ComplexExpressionNoSuperWord,width=480,height=640,align="center"]
+
+ArrayStats:
+
+image::./assets/images/SnapDragon-ArrayStats.png[alt=ArrayStats,width=480,height=640,align="center"]
+
+
+== Test Analysis:
+

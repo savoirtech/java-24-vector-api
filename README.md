@@ -48,6 +48,12 @@ ComplexExpressionNoSuperWord:
 alt="ComplexExpressionNoSuperWord" />
 </figure>
 
+ArrayStats:
+
+<figure>
+<img src="./assets/images/Xeon-ArrayStats.png" alt="ArrayStats" />
+</figure>
+
 ## AMD Ryzen 9 9950x
 
 SimpleSum:
@@ -75,6 +81,12 @@ ComplexExpressionNoSuperWord:
 <figure>
 <img src="./assets/images/Ryzen-ComplexExpressionNoSuperWord.png"
 alt="ComplexExpressionNoSuperWord" />
+</figure>
+
+ArrayStats:
+
+<figure>
+<img src="./assets/images/Ryzen-ArrayStats.png" alt="ArrayStats" />
 </figure>
 
 ## Apple M4 Base
@@ -106,6 +118,12 @@ ComplexExpressionNoSuperWord:
 alt="ComplexExpressionNoSuperWord" />
 </figure>
 
+ArrayStats:
+
+<figure>
+<img src="./assets/images/Apple-ArrayStats.png" alt="ArrayStats" />
+</figure>
+
 ## Qualcomm SnapDragon X Elite X1E80100
 
 SimpleSum:
@@ -134,3 +152,11 @@ ComplexExpressionNoSuperWord:
 <img src="./assets/images/SnapDragon-ComplexExpressionNoSuperWord.png"
 alt="ComplexExpressionNoSuperWord" />
 </figure>
+
+ArrayStats:
+
+<figure>
+<img src="./assets/images/SnapDragon-ArrayStats.png" alt="ArrayStats" />
+</figure>
+
+# Test Analysis:
