@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Java 24 Vector API</title>
+<date>2025-03-20</date>
+</info>
+<simpara>Performance testing Java 24&#8217;s Vector API.</simpara>
+<section xml:id="_test_harness">
+<title>Test Harness:</title>
+<simpara>JavaVectorAPI-1:
+<link xl:href="https://github.com/tomerr90/JavaVectorAPI-1.git">https://github.com/tomerr90/JavaVectorAPI-1.git</link></simpara>
+</section>
+<section xml:id="_test_design">
+<title>Test Design:</title>
+<simpara>Using JDK 24 we will run all five test suites from JavaVectorAPI-1 on a different CPU vendor:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Intel Xeon E-2378</simpara>
+</listitem>
+<listitem>
+<simpara>AMD Ryzen 9 9950x</simpara>
+</listitem>
+<listitem>
+<simpara>Apple M4 Base</simpara>
+</listitem>
+<listitem>
+<simpara>Qualcomm SnapDragon X Elite X1E80100</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_test_results">
+<title>Test Results:</title>
+
+</section>
+</article>
