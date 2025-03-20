@@ -227,6 +227,15 @@
 </section>
 <section xml:id="_test_analysis">
 <title>Test Analysis:</title>
-
+<simpara>SimpleSum/SimpleSunNoSuperWord &amp; ComplexExpression/ComplexExpressionNoSuperWord:</simpara>
+<simpara>JIT is in most cases providing automatic vectorization matching find tuned implementation.</simpara>
+<simpara>ArrayStats - Branchless code:</simpara>
+<simpara>There are a few stories that fall out of this test suite.</simpara>
+<simpara>x64:</simpara>
+<simpara>There is a band of data set size that will elicit optimal boost from the Vector API.</simpara>
+<simpara>Intel&#8217;s band is wider than AMD, however when AMD is processing optimal data set size, its gaining a very large boost.</simpara>
+<simpara>ARM:</simpara>
+<simpara>Both Qualcomm and Apple tend to have more boost as datasets increase in size.
+In Qualcomm&#8217;s case the larger boost starts at a smaller data size, however as data set size grows the Apple system achieves more boost.</simpara>
 </section>
 </article>

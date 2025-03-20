@@ -109,3 +109,21 @@ image::./assets/images/SnapDragon-ArrayStats.png[alt=ArrayStats,width=480,height
 
 == Test Analysis:
 
+SimpleSum/SimpleSunNoSuperWord & ComplexExpression/ComplexExpressionNoSuperWord:
+
+JIT is in most cases providing automatic vectorization matching find tuned implementation.
+
+ArrayStats - Branchless code:
+
+There are a few stories that fall out of this test suite.
+
+x64:
+
+There is a band of data set size that will elicit optimal boost from the Vector API.
+
+Intel's band is wider than AMD, however when AMD is processing optimal data set size, its gaining a very large boost.
+
+ARM:
+
+Both Qualcomm and Apple tend to have more boost as datasets increase in size.
+In Qualcomm's case the larger boost starts at a smaller data size, however as data set size grows the Apple system achieves more boost.
