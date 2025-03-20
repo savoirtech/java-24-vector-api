@@ -185,7 +185,7 @@ Both Qualcomm and Apple tend to have more boost as datasets increase in
 size. In Qualcomm’s case the larger boost starts at a smaller data size,
 however as data set size grows the Apple system achieves more boost.
 
-Conclusion:
+# Conclusion:
 
 For these specific processors we see that the Ryzen CPU can generate the
 most performance boost using Vector API IFF the data set size is in its
