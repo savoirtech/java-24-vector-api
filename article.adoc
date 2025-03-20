@@ -17,3 +17,29 @@ Using JDK 24 we will run all five test suites from JavaVectorAPI-1 on a differen
 * Qualcomm SnapDragon X Elite X1E80100
 
 == Test Results:
+
+=== Intel Xeon E-2378
+
+SimpleSum:
+
+image::./assets/images/Xeon-SimpleSum.png[alt=SimpleSum,width=480,height=640,align="center"]
+
+SimpleSumNoSuperWord:
+
+image::./assets/images/Xeon-SimpleSumNoSuperWord.png[alt=SimpleSumNoSuperWord,width=480,height=640,align="center"]
+
+ComplexExpression:
+
+image::./assets/images/Xeon-ComplexExpression.png[alt=ComplexExpression,width=480,height=640,align="center"]
+
+ComplexExpressionNoSuperWord:
+
+image::./assets/images/Xeon-ComplexExpressionNoSuperWord.png[alt=ComplexExpressionNoSuperWord,width=480,height=640,align="center"]
+
+=== AMD Ryzen 9 9950x
+
+
+=== Apple M4 Base
+
+
+=== Qualcomm SnapDragon X Elite X1E80100
