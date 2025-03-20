@@ -18,3 +18,38 @@ different CPU vendor:
 - Qualcomm SnapDragon X Elite X1E80100
 
 # Test Results:
+
+## Intel Xeon E-2378
+
+SimpleSum:
+
+<figure>
+<img src="./assets/images/Xeon-SimpleSum.png" alt="SimpleSum" />
+</figure>
+
+SimpleSumNoSuperWord:
+
+<figure>
+<img src="./assets/images/Xeon-SimpleSumNoSuperWord.png"
+alt="SimpleSumNoSuperWord" />
+</figure>
+
+ComplexExpression:
+
+<figure>
+<img src="./assets/images/Xeon-ComplexExpression.png"
+alt="ComplexExpression" />
+</figure>
+
+ComplexExpressionNoSuperWord:
+
+<figure>
+<img src="./assets/images/Xeon-ComplexExpressionNoSuperWord.png"
+alt="ComplexExpressionNoSuperWord" />
+</figure>
+
+## AMD Ryzen 9 9950x
+
+## Apple M4 Base
+
+## Qualcomm SnapDragon X Elite X1E80100

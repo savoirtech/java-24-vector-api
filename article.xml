@@ -32,6 +32,56 @@
 </section>
 <section xml:id="_test_results">
 <title>Test Results:</title>
+<section xml:id="_intel_xeon_e_2378">
+<title>Intel Xeon E-2378</title>
+<simpara>SimpleSum:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Xeon-SimpleSum.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>SimpleSum</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>SimpleSumNoSuperWord:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Xeon-SimpleSumNoSuperWord.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>SimpleSumNoSuperWord</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>ComplexExpression:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Xeon-ComplexExpression.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>ComplexExpression</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>ComplexExpressionNoSuperWord:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Xeon-ComplexExpressionNoSuperWord.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>ComplexExpressionNoSuperWord</phrase></textobject>
+</mediaobject>
+</informalfigure>
+</section>
+<section xml:id="_amd_ryzen_9_9950x">
+<title>AMD Ryzen 9 9950x</title>
 
+</section>
+<section xml:id="_apple_m4_base">
+<title>Apple M4 Base</title>
+
+</section>
+<section xml:id="_qualcomm_snapdragon_x_elite_x1e80100">
+<title>Qualcomm SnapDragon X Elite X1E80100</title>
+
+</section>
 </section>
 </article>
