@@ -50,6 +50,87 @@ alt="ComplexExpressionNoSuperWord" />
 
 ## AMD Ryzen 9 9950x
 
+SimpleSum:
+
+<figure>
+<img src="./assets/images/Ryzen-SimpleSum.png" alt="SimpleSum" />
+</figure>
+
+SimpleSumNoSuperWord:
+
+<figure>
+<img src="./assets/images/Ryzen-SimpleSumNoSuperWord.png"
+alt="SimpleSumNoSuperWord" />
+</figure>
+
+ComplexExpression:
+
+<figure>
+<img src="./assets/images/Ryzen-ComplexExpression.png"
+alt="ComplexExpression" />
+</figure>
+
+ComplexExpressionNoSuperWord:
+
+<figure>
+<img src="./assets/images/Ryzen-ComplexExpressionNoSuperWord.png"
+alt="ComplexExpressionNoSuperWord" />
+</figure>
+
 ## Apple M4 Base
 
+SimpleSum:
+
+<figure>
+<img src="./assets/images/Apple-SimpleSum.png" alt="SimpleSum" />
+</figure>
+
+SimpleSumNoSuperWord:
+
+<figure>
+<img src="./assets/images/Apple-SimpleSumNoSuperWord.png"
+alt="SimpleSumNoSuperWord" />
+</figure>
+
+ComplexExpression:
+
+<figure>
+<img src="./assets/images/Apple-ComplexExpression.png"
+alt="ComplexExpression" />
+</figure>
+
+ComplexExpressionNoSuperWord:
+
+<figure>
+<img src="./assets/images/Apple-ComplexExpressionNoSuperWord.png"
+alt="ComplexExpressionNoSuperWord" />
+</figure>
+
 ## Qualcomm SnapDragon X Elite X1E80100
+
+SimpleSum:
+
+<figure>
+<img src="./assets/images/SnapDragon-ArrayStats.png" alt="SimpleSum" />
+</figure>
+
+SimpleSumNoSuperWord:
+
+<figure>
+<img src="./assets/images/SnapDragon-SimpleSumNoSuperWord.png"
+alt="SimpleSumNoSuperWord" />
+</figure>
+
+ComplexExpression:
+
+<figure>
+<img src="./assets/images/SnapDragon-ComplexExpression.png"
+alt="ComplexExpression" />
+</figure>
+
+ComplexExpressionNoSuperWord:
+
+<figure>
+<img src="./assets/images/SnapDragon-ComplexExpressionNoSuperWord.png"
+alt="ComplexExpressionNoSuperWord" />
+</figure>

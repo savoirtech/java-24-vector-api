@@ -73,15 +73,120 @@
 </section>
 <section xml:id="_amd_ryzen_9_9950x">
 <title>AMD Ryzen 9 9950x</title>
-
+<simpara>SimpleSum:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Ryzen-SimpleSum.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>SimpleSum</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>SimpleSumNoSuperWord:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Ryzen-SimpleSumNoSuperWord.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>SimpleSumNoSuperWord</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>ComplexExpression:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Ryzen-ComplexExpression.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>ComplexExpression</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>ComplexExpressionNoSuperWord:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Ryzen-ComplexExpressionNoSuperWord.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>ComplexExpressionNoSuperWord</phrase></textobject>
+</mediaobject>
+</informalfigure>
 </section>
 <section xml:id="_apple_m4_base">
 <title>Apple M4 Base</title>
-
+<simpara>SimpleSum:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Apple-SimpleSum.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>SimpleSum</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>SimpleSumNoSuperWord:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Apple-SimpleSumNoSuperWord.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>SimpleSumNoSuperWord</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>ComplexExpression:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Apple-ComplexExpression.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>ComplexExpression</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>ComplexExpressionNoSuperWord:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/Apple-ComplexExpressionNoSuperWord.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>ComplexExpressionNoSuperWord</phrase></textobject>
+</mediaobject>
+</informalfigure>
 </section>
 <section xml:id="_qualcomm_snapdragon_x_elite_x1e80100">
 <title>Qualcomm SnapDragon X Elite X1E80100</title>
-
+<simpara>SimpleSum:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/SnapDragon-ArrayStats.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>SimpleSum</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>SimpleSumNoSuperWord:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/SnapDragon-SimpleSumNoSuperWord.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>SimpleSumNoSuperWord</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>ComplexExpression:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/SnapDragon-ComplexExpression.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>ComplexExpression</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>ComplexExpressionNoSuperWord:</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./assets/images/SnapDragon-ComplexExpressionNoSuperWord.png" contentwidth="480" contentdepth="640" align="center"/>
+</imageobject>
+<textobject><phrase>ComplexExpressionNoSuperWord</phrase></textobject>
+</mediaobject>
+</informalfigure>
 </section>
 </section>
 </article>
